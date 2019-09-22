@@ -1,0 +1,82 @@
+.sign-up{
+    max-width: 600px;
+    max-height: 800%;
+    height: 400px;
+    border-bottom-width: 10px;
+    border-style: solid;
+    border-width:1px 1px 1px 1px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 6);
+    align-content: center;
+    position: relative;
+    font-family: "Roboto" sans-serif;
+}
+
+.head{
+    color: #A32477;
+    font-size: 15px;
+    font-family: "Roboto" sans-serif;
+    text-align:center;
+    position: relative;
+    top:40px;
+    ;
+}
+
+.input-group{
+    border-radius: 10px;
+    height: 25px;
+    padding:1rem 0;
+    margin-bottom: 20px;
+    align-self: center;
+    margin-right: 50px;
+    margin-top: .100rem;
+    border-radius:5px 5px;
+  justify-items: center;
+    margin-bottom: 30px;
+    border-end-end-radius: 5px;
+    margin-top: 10px;
+   margin-left: 80px;
+   padding: 10px;
+   position: relative;
+    top:60px;
+}
+ 
+ span{
+     position: relative;
+     left:30px;
+     border-radius: 5px;
+ }
+
+
+
+
+button{
+     align-self: center;
+     background-color: #A32477;
+     width:400px;
+     border-radius: 5px;
+     color: #fff;
+     font-size: 15px;
+     height: 25px;
+     position: relative;
+     top:120px;
+     left:80px;
+ }
+ 
+ p{
+    color: #A32477;  
+    font-size: 20px;
+    text-decoration: none;
+    align-self: center;
+    position: relative;
+    left:100px;
+    top:120px;
+ }
+ a{
+    color: #A32477;  
+    font-size: 20px;
+    text-decoration: none;
+    align-self: center;
+    position: relative;
+    left:10px;
+    top:0px;  
+ }
